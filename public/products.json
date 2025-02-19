@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Dairy Milk Silk",
+    "brand": "Churnch & Sweet",
+    "price": "$18",
+    "originalPrice": "$24",
+    "sale": true,
+    "rating": 4.5,
+    "reviews": 149,
+    "image": "images/silk.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Snickers",
+    "brand": "Churnch & Sweet",
+    "price": "$2",
+    "originalPrice": "$3",
+    "sale": false,
+    "rating": 4.2,
+    "reviews": 200,
+    "image": "images/snickers.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Nestle Chocolate",
+    "brand": "Nestle",
+    "price": "$5",
+    "originalPrice": "$6",
+    "sale": false,
+    "rating": 4.8,
+    "reviews": 100,
+    "image": "images/nestle.jpg"
+  },
+  {
+    "id": 4,
+    "name": "KitKat",
+    "brand": "Nestle",
+    "price": "$3",
+    "originalPrice": "$4",
+    "sale": true,
+    "rating": 4.7,
+    "reviews": 120,
+    "image": "images/kitkat.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Hide and Seek Cookies",
+    "brand": "Britannia",
+    "price": "$6",
+    "originalPrice": "$8",
+    "sale": false,
+    "rating": 4.3,
+    "reviews": 130,
+    "image": "images/hide%20and%20seek.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Nutri Choice",
+    "brand": "Britannia",
+    "price": "$7",
+    "originalPrice": "$9",
+    "sale": true,
+    "rating": 4.4,
+    "reviews": 95,
+    "image": "images/nutri.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Jim Jam Biscuits",
+    "brand": "Britannia",
+    "price": "$3",
+    "originalPrice": "$4",
+    "sale": false,
+    "rating": 4.1,
+    "reviews": 220,
+    "image": "images/jim%20jam.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Unibic Cookies",
+    "brand": "Unibic",
+    "price": "$4",
+    "originalPrice": "$5",
+    "sale": true,
+    "rating": 4.6,
+    "reviews": 180,
+    "image": "images/unibic.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Nabati Wafer",
+    "brand": "Nabati",
+    "price": "$5",
+    "originalPrice": "$6",
+    "sale": false,
+    "rating": 4.2,
+    "reviews": 210,
+    "image": "images/nabati.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Milk Chocolate",
+    "brand": "Cadbury",
+    "price": "$4",
+    "originalPrice": "$5",
+    "sale": true,
+    "rating": 4.7,
+    "reviews": 300,
+    "image": "images/milk.jpg"
+  }
+]

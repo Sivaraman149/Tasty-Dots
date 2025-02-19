@@ -1,0 +1,109 @@
+{
+    "categories": [
+      {
+        "title": "Fast Food",
+        "items": ["Burger", "Pizza", "Hotdog", "Taco"]
+      },
+      {
+        "title": "Desserts",
+        "items": ["Donut", "Waffles", "French Fries"]
+      },
+      {
+        "title": "Snacks",
+        "items": ["Popcorn", "Noodles", "Citrus Fruits"]
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "name": "KFC",
+        "category": "Fast Food",
+        "image": "KFC.png",
+        "price": 18,
+        "originalPrice": 24,
+        "rating": 4.5
+      },
+      {
+        "id": 2,
+        "name": "Burger",
+        "category": "Fast Food",
+        "image": "burger.png",
+        "price": 12,
+        "originalPrice": 15,
+        "rating": 4.2
+      },
+      {
+        "id": 3,
+        "name": "French Fries",
+        "category": "Desserts",
+        "image": "french.jpg",
+        "price": 6,
+        "originalPrice": 8,
+        "rating": 4.3
+      },
+      {
+        "id": 4,
+        "name": "Noodles",
+        "category": "Snacks",
+        "image": "noodels.jpg",
+        "price": 10,
+        "originalPrice": 12,
+        "rating": 4.4
+      },
+      {
+        "id": 5,
+        "name": "Popcorn",
+        "category": "Snacks",
+        "image": "popcorn.jpg",
+        "price": 5,
+        "originalPrice": 7,
+        "rating": 4.7
+      },
+      {
+        "id": 6,
+        "name": "Hotdog",
+        "category": "Fast Food",
+        "image": "hotdog.jpg",
+        "price": 8,
+        "originalPrice": 10,
+        "rating": 4.0
+      },
+      {
+        "id": 7,
+        "name": "Pizza",
+        "category": "Fast Food",
+        "image": "pizza.jpg",
+        "price": 15,
+        "originalPrice": 20,
+        "rating": 4.8
+      },
+      {
+        "id": 8,
+        "name": "Waffles",
+        "category": "Desserts",
+        "image": "waffles.jpg",
+        "price": 7,
+        "originalPrice": 9,
+        "rating": 4.6
+      },
+      {
+        "id": 9,
+        "name": "Donut",
+        "category": "Desserts",
+        "image": "donut.jpg",
+        "price": 4,
+        "originalPrice": 6,
+        "rating": 4.9
+      },
+      {
+        "id": 10,
+        "name": "Taco",
+        "category": "Fast Food",
+        "image": "taco.png",
+        "price": 9,
+        "originalPrice": 11,
+        "rating": 4.3
+      }
+    ]
+  }
+  
